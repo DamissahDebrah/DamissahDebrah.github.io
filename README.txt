@@ -1,32 +1,63 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+ # 🌐 Damissah Debrah Portfolio Website
+
+Welcome to my personal data analytics portfolio — a showcase of projects, dashboards, and insights that reflect my journey and skills in the field of data analytics.
+
+🔗 **Live Website**: [Visit Portfolio](https://damissahdebrah.github.io/)
+
+---
+
+## 📁 Project Highlights
+
+### 📊 Power BI Dashboards
+- Interactive visuals built using Power BI.
+- Focused on operational performance, revenue trends, and customer segmentation.
+
+### 🧮 Excel Analysis
+- Budget tracking sheets and KPI models.
+- Clean, user-friendly layouts with formulas and conditional formatting.
+
+### 📈 SQL Explorations
+- Data cleaning, joins, filtering, and insights generation.
+- Real-world examples including payments, registration timelines, and customer data.
+---
+
+## 💼 About Me
+
+With over 10 years of experience in **operations, procurement, and management**, I’ve transitioned into the **data analytics space** with a focus on turning numbers into narratives.
+
+🧠 Skills include:
+- Excel & Google Sheets
+- SQL & MySQL
+- Power BI & Data Visualization
+- HTML/CSS (for dashboards & static site hosting)
+
+---
+
+## 📌 How This Site Was Built
+
+- Developed using basic **HTML/CSS/JS**
+- Hosted via **GitHub Pages**
+- Responsive layout for both desktop and mobile
+- File structure:
+DamissahDebrah-github.io
 
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+---
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## 📨 Contact
 
-(* = not included)
+Let’s connect!
 
-AJ
-aj@lkn.io | @ajlkn
+- 📧 Email: damissahdeborah@gmail.com
+- 📸 Instagram: [@TechTalksWithDee](https://www.instagram.com/techtalkswithdee)
+- 💼 LinkedIn: [Damissah Deborah]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/okodugha-debrah-9b29307b/))
+
+---
 
 
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
 
 	Other:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
+
 		Responsive Tools (github.com/ajlkn/responsive-tools)
