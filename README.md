@@ -29,7 +29,10 @@ With over 10 years of experience in **operations, procurement, and management**,
 - Excel & Google Sheets
 - SQL & MySQL
 - Power BI & Data Visualization
-- HTML/CSS (for dashboards & static site hosting)
+- Soft Skills
+- Creative thinking
+- Problem Solving
+
 
 ---
 
@@ -39,7 +42,7 @@ With over 10 years of experience in **operations, procurement, and management**,
 - Hosted via **GitHub Pages**
 - Responsive layout for both desktop and mobile
 - File structure:
-DamissahDebrah-github.io
+DamissahDebrah.github.io
 
 
 ---
@@ -53,4 +56,5 @@ Let’s connect!
 - 💼 LinkedIn: [Damissah Deborah]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/okodugha-debrah-9b29307b/))
 
 ---
+
 
