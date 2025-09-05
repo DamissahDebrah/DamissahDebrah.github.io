@@ -53,9 +53,10 @@ Let’s connect!
 
 - 📧 Email: damissahdeborah@gmail.com
 - 📸 Instagram: [@TechTalksWithDee](https://www.instagram.com/techtalkswithdee)
-- 💼 LinkedIn: [Damissah Deborah](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/okodugha-debrah-9b29307b/)
+- 💼 LinkedIn: [Damissah Deborah](https://www.linkedin.com/in/okodugha-debrah-9b29307b/)
 
 ---
+
 
 
 
